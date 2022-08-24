@@ -1,0 +1,52 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Combined dissolve+outline
+  m_Shader: {fileID: -6465566751694194690, guid: e0b9abf19fd16a2428a63e3e201b3c27, type: 3}
+  m_ShaderKeywords: CORNERS_ON
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - _MainTex:
+        m_Texture: {fileID: 2800000, guid: 8f169193df3d51042a705fa81fc46e72, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - unity_Lightmaps:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - unity_LightmapsInd:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - unity_ShadowMasks:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Floats:
+    - Boolean_34adf7fe67934fe38245fd6aacdf75ab: 1
+    - CORNERS: 1
+    - Vector1_7782b148aca54231832753c7aa9f59d2: 2.28
+    - Vector1_8db9d88fc5b5413198c348674c266eed: 3
+    - _Fade: 0
+    - _NoiseScale: 24
+    - _OutlineVisibility: 0
+    - _xMovement: 0
+    - _yMovement: 0
+    - isMoving: 1
+    m_Colors:
+    - Color_5e76db4e59b94ad89af0b27f52c8dfc3: {r: 9.734288, g: 9.734288, b: 9.326569, a: 1}
+    - _OutlineColor: {r: 10.432951, g: 10.432951, b: 10.432951, a: 1}
+  m_BuildTextureStacks: []

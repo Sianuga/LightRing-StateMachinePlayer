@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="303.61572mm"
+   height="265.0864mm"
+   viewBox="0 0 303.61573 265.08639"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.1 (c68e22c387, 2021-05-23)"
+   sodipodi:docname="Luxinardos.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#505050"
+     bordercolor="#ffffff"
+     borderopacity="1"
+     inkscape:pageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="1"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="0.47496585"
+     inkscape:cx="449.506"
+     inkscape:cy="630.57165"
+     inkscape:window-width="1920"
+     inkscape:window-height="1001"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer8"
+     width="296mm"
+     showborder="true"
+     borderlayer="false"
+     fit-margin-top="50"
+     fit-margin-left="50"
+     fit-margin-right="50"
+     fit-margin-bottom="50">
+    <inkscape:grid
+       type="xygrid"
+       id="grid836"
+       originx="46.422685"
+       originy="17.727384" />
+  </sodipodi:namedview>
+  <defs
+     id="defs2" />
+  <g
+     inkscape:groupmode="layer"
+     id="layer6"
+     inkscape:label="Left Hand"
+     transform="translate(46.422686,17.727391)">
+    <ellipse
+       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:1.62472;stroke-opacity:0.26506"
+       id="ellipse12811"
+       cx="159.35493"
+       cy="132.82498"
+       rx="20.970797"
+       ry="48.866295"
+       transform="matrix(0.99246916,-0.12249475,0.19119629,0.98155182,0,0)" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer9"
+     inkscape:label="Legs"
+     transform="translate(46.422686,17.727391)">
+    <g
+       inkscape:groupmode="layer"
+       id="layer2"
+       inkscape:label="Left leg" />
+    <g
+       inkscape:label="Right leg"
+       inkscape:groupmode="layer"
+       id="layer1">
+      <ellipse
+         style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:1.66959;stroke-opacity:0.26506"
+         id="path846"
+         cx="72.618423"
+         cy="149.60251"
+         rx="23.062817"
+         ry="46.921711" />
+      <ellipse
+         style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:1.69878;stroke-opacity:0.220884"
+         id="path846-3"
+         cx="140.46225"
+         cy="149.43936"
+         rx="23.883808"
+         ry="46.907116" />
+    </g>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer3"
+     inkscape:label="Torso"
+     style="display:inline"
+     transform="translate(46.422686,17.727391)">
+    <rect
+       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:1.99672;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.389558"
+       id="rect1012"
+       width="147.4805"
+       height="132.51231"
+       x="31.583406"
+       y="33.270969"
+       ry="32.423225" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer7"
+     inkscape:label="Right Hand"
+     style="display:inline"
+     transform="translate(46.422686,17.727391)">
+    <ellipse
+       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:1.62472;stroke-opacity:0.26506"
+       id="path846-1"
+       cx="55.102695"
+       cy="102.44008"
+       rx="20.970797"
+       ry="48.866295"
+       transform="matrix(0.95098881,0.30922529,-0.24236297,0.97018565,0,0)" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer8"
+     inkscape:label="Eyes"
+     transform="translate(46.422686,17.727391)">
+    <g
+       inkscape:groupmode="layer"
+       id="layer4"
+       inkscape:label="Left eye">
+      <ellipse
+         style="fill:#000000;fill-opacity:1;stroke:#ffffff;stroke-width:1.765;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+         id="path1251-7"
+         cx="90.243347"
+         cy="69.075134"
+         rx="12.255266"
+         ry="11.976738" />
+    </g>
+    <g
+       inkscape:groupmode="layer"
+       id="layer5"
+       inkscape:label="Right eye">
+      <ellipse
+         style="fill:#000000;fill-opacity:1;stroke:#ffffff;stroke-width:1.765;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+         id="path1251"
+         cx="140.93558"
+         cy="67.682495"
+         rx="12.255266"
+         ry="11.976738" />
+    </g>
+  </g>
+</svg>
