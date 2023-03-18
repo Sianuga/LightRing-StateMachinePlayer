@@ -8,8 +8,6 @@ https://user-images.githubusercontent.com/95643408/186510085-cf34cbad-cdda-4779-
 
 
 
-The video shows the mechanism, it is dependendent on the distance of the ring boundary to an object and also movement of ,,particles" is shifted by position, which
-can be seen when blocks appear diagonally on the right side. Effect of reveal of the objects is achieved with use of shader graph and script updating values in it.
 
-State machine itself focuses on simple implementation of custom movement and collisions organised in manner that is easier to maintain when possible actions number increases,
-thus use of states enables to swiftly add new options.
+The mechanism is dependent on the distance of the ring boundary to an object, and the movement of particles is shifted by position, resulting in diagonal block appearances on the right side. The effect of the reveal is achieved using shader graphs and scripts to update the values in them. The state machine enables easy maintenance of custom movements and collisions, making it easy to add new options as the number of possible actions increases.
+
